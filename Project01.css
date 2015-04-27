@@ -1,0 +1,16 @@
+header{
+	padding:.5%;
+	margin:0;
+	text-align:center;
+	background:darkgreen;
+	color:white;
+}
+body{
+	background:black;
+}
+p{
+	text-align:center;
+	font-size: 17.5px;
+	background:;
+	color:white;
+}
